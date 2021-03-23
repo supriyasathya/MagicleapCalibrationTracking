@@ -2,7 +2,7 @@
 
 Requirements:
 
-python=3.7.10 
+python=3.7.10  \\
 imutils==0.5.4
 h5py=2.10.0
 matplotlib==3.3.4
